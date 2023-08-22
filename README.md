@@ -8,7 +8,7 @@ I’m a self-motivated, forward-looking graduate from University of Colombo and 
 Reach me:<br/>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> <a href="https://www.linkedin.com/in/sachintha-dilshan96/">LinkedIn</a>
     
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" /> <a href="https://sachinthadilshan96.github.io/myPortfolio/">Web</a>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" /> <a href="https://sachinthadilshan96.github.io/myPortfolio/">Portfolio</a>
 
 [![Sachintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinthaDilshan96)](https://github.com/anuraghazra/github-readme-stats)
 <!--
