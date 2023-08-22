@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Sachintha Dilshan 👋
 
+I’m a self-motivated, forward-looking graduate from University of Colombo and University of Moratuwa with 9 months experience as a trainee Software Engineer.I’m very much interested in software development, machine learning and data science domains. I do like to explore new technologies and love learn while supporting others. I have background , knowledge and experience related to Data Science and software engineering domains. I
 <!--
 **SachinthaDilshan96/SachinthaDilshan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
