@@ -1,6 +1,7 @@
 ### Hi, I'm Sachintha Dilshan 👋
 
-![Sachintha Dilshan](https://github.com/SachinthaDilshan96/SachinthaDilshan96/assets/66704957/b83f72b0-0f99-4226-8d18-34a91b786f22)
+![Sachintha Dilshan](https://github.com/SachinthaDilshan96/SachinthaDilshan96/assets/66704957/80187d9d-a0c8-425b-b1aa-c1aacf2b97d6)
+
 
 I’m a self-motivated, forward-looking graduate from University of Colombo and University of Moratuwa with 9 months experience as a trainee Software Engineer.I’m very much interested in software development, machine learning and data science domains. I do like to explore new technologies and love learn while supporting others. I have background , knowledge and experience related to Data Science and software engineering domains. I
 <!--
